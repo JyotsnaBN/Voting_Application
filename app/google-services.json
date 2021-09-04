@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040432849735",
+    "project_id": "my-voting-application-fcaf1",
+    "storage_bucket": "my-voting-application-fcaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040432849735:android:be794834b149bfd2702262",
+        "android_client_info": {
+          "package_name": "com.example.myvotingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040432849735-b78abu14emigucemgk6aq3u0dsqst4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aFJEhQKNw6TMCcuncDyhBVopV0jGGis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040432849735-b78abu14emigucemgk6aq3u0dsqst4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

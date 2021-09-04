@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Voting Application</string>
+
+    <string name="admin_login">Admin Login</string>
+    <string name="voter_login">Voter Login</string>
+    <string name="view_result">View Result</string>
+
+    <string name="vote">Vote</string>
+    <string name="party1">AAP</string>
+    <string name="party2">YSR</string>
+    <string name="party3">NPP</string>
+    <string name="none">NOTA</string>
+    <string name="voterid">Enter Voter ID</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="adminuid">Enter UID</string>
+    <string name="title_activity_admin__info">Admin_Info</string>
+    <string name="logout">Logout</string>
+
+    <string name="title_activity_voting">VotingActivity</string>
+    <string name="title_activity_admin__login">Admin_Login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_voter__login">Voter_Login</string>
+    <string name="title_activity_testclass">testclass</string>
+</resources>

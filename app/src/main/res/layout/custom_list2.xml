@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/customborder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/readPartyName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="10sp"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+
+        android:text="Party Name :" />
+
+    <TextView
+        android:id="@+id/readVotes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Votes            :"
+        android:layout_gravity="center"
+        android:padding="10sp"
+        android:textSize="25sp"
+        android:layout_margin="10dp"/>
+</LinearLayout>
