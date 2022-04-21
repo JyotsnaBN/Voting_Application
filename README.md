@@ -8,9 +8,11 @@ This application will have two views:
 2. USER VIEW
 There is another button that would be enabled only after election has been completed.
 3. VIEW RESULTS.
+
+
 Let us talk about each one of them in detail.
 
-1. ADMIN
+ADMIN
 
 As an Admin who would be monitoring the elections, their responsibilities would be to preside over
 the elections to ensure no malpractice takes place.The presides over the election at the fixed time,
@@ -25,7 +27,7 @@ modify them. At the end of the Election, the voting is stopped since the end tim
 the admin can display the number of votes gained by each party and who the Winner is.
 The Admin can Logout from the Admin View at any time.
 
-2. USER
+USER
 
 When the user view is chosen, you are asked to enter the voter ID and password and you must be
 an Indian Citizen above 18 years of age to be enrolled into the Voters list.
@@ -37,7 +39,7 @@ they cannot login again.
 Every User can only login once and cast their vote only once.
 Once you have voted you would be logged out of the application.
 
-3. VIEW RESULTS
+VIEW RESULTS
 
 When the Election time is up, Voting is closed and users cannot login anymore and the View
 Results button is enabled.
