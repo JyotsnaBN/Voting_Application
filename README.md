@@ -6,6 +6,7 @@ mobiles.
 This application will have two views:
 1. ADMIN VIEW
 2. USER VIEW
+
 There is another button that would be enabled only after election has been completed.
 3. VIEW RESULTS.
 
