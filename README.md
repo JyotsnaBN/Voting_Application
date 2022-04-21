@@ -11,6 +11,7 @@ There is another button that would be enabled only after election has been compl
 Let us talk about each one of them in detail.
 
 1. ADMIN
+
 As an Admin who would be monitoring the elections, their responsibilities would be to preside over
 the elections to ensure no malpractice takes place.The presides over the election at the fixed time,
 from the start to the end of the elections according to the designated timeline.
@@ -25,6 +26,7 @@ the admin can display the number of votes gained by each party and who the Winne
 The Admin can Logout from the Admin View at any time.
 
 2. USER
+
 When the user view is chosen, you are asked to enter the voter ID and password and you must be
 an Indian Citizen above 18 years of age to be enrolled into the Voters list.
 The Voter ID is unique for every citizen and when the ID and password are entered correctly, you
@@ -36,6 +38,7 @@ Every User can only login once and cast their vote only once.
 Once you have voted you would be logged out of the application.
 
 3. VIEW RESULTS
+
 When the Election time is up, Voting is closed and users cannot login anymore and the View
 Results button is enabled.
 When this button is clicked the name of the Winner Party is displayed along with the number of
